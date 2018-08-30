@@ -1,0 +1,6 @@
+pandas
+tabulate
+matplotlib
+numpy
+scipy
+networkit
